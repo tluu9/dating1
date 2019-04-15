@@ -1,0 +1,20 @@
+/*
+<!--
+Trang Luu
+14 Apil 2019
+Dating Website/ CSS style
+-->
+*/
+
+.container-fluid {
+    background-color: black;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+}
+h3 {
+    background-color: #D3D3D3;
+    padding: 20px;
+    margin: 0px;
+}
+
