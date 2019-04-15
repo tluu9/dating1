@@ -1,5 +1,5 @@
 <?php
-/** Another pair programming project...*/
+/** Dating Project*/
 /**Trang Luu
  *14 April 2019
  * Controller page
